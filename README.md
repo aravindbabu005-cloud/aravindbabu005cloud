@@ -99,22 +99,6 @@ Kuruppampady
 - Full Stack Web Development
 - Git and GitHub
 
----
-
-## GitHub Activity
-
-I use GitHub to maintain my projects, practice coding,
-learn new technologies, and improve my development skills.
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aravindbabu005cloud&show_icons=true&hide_border=true&count_private=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindbabu005cloud&layout=compact&hide_border=true" height="170">
-
-</div>
-
----
 
 ## Connect With Me
 
